@@ -4,6 +4,7 @@ public class ArraySwitch{
 
 
 
+<<<<<<< HEAD
 public static void main(String[] args){
 int[] test = {4,5,6,7,3,5,67,4};mer text
 
