@@ -5,7 +5,7 @@ public class ArraySwitch{
 
 
 public static void main(String[] args){
-int[] test = {4,5,6,7,3,5,67,4};
+int[] test = {4,5,6,7,3,5,67,4};mer text
 
 System.out.println(Arrays.toString(addAtIndex(test,100,3)));      // Main to test my method
 }
